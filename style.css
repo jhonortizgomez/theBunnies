@@ -11,7 +11,7 @@ body{
     border: 8px solid black;
     border-radius: 40px;
     width: 300px;
-    height: 550px;
+    height: 600px;
     background: #ccefff;
     box-shadow: 0 19px 38px rgba(0, 0,0,.3), 0 15px 12px rgba(0, 0,0,.3) ;
     overflow: hidden;
