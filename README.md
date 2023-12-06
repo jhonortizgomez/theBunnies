@@ -1,6 +1,6 @@
 # Conejos animados
 
-Este es un juego en el que al dar click sobre un conejo inicia un contador.
+¡Bienvenid@ a "Conejos Animados"! Este es un juego interactivo donde la diversión comienza al hacer clic sobre un conejo, desencadenando un contador emocionante.
 
 ## Tegnologias utilizadas
 
